@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1424644200 source:c:\users\miki\desktop\jhki\main.cpp
+	<windows.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1424682127 source:c:\users\miki\desktop\assignment 1\main.cpp
+	<windows.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1427995301 source:c:\users\miki\desktop\graphics project\main.cpp
+	<iostream>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<sstream>
+
+1427995301 source:d:\zzzzzzzzzzzzz\fci 3rd level\3-2\desktop filles\graphics project\main.cpp
+	<iostream>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<sstream>
+
